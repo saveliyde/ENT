@@ -1,0 +1,6 @@
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const USERSHEETS_ROUTE = '/usersheets'
+export const SHEETSPAGE_ROUTE = '/sheetspage'
+export const PUBLICSHEETS_ROUTE = '/publicsheets'
+export const MAINPAGE_ROUTE = '/'
